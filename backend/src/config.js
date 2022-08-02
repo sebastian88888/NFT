@@ -13,7 +13,7 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 50,
+    growEditionSizeTo: 5000,
     layersOrder: [
       { name: "Background" },
       { name: "Extra" },
@@ -38,7 +38,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://kolabo.de", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://quirkyquokkas.xyz", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
