@@ -1,5 +1,5 @@
-const contractAddress = "0xb551bB27A8d7127Be59255A486873bC285F53E00"; // Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
+const contractAddress = "0x3ebF878DcC56735A04a154B7858175e344C9b8a4"; // Replace with your own contract address
+const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Quirky Quokka Globetrotters NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
